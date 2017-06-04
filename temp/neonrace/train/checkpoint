@@ -1,0 +1,6 @@
+model_checkpoint_path: "/tmp/neonrace/train/model.ckpt-2600"
+all_model_checkpoint_paths: "/tmp/neonrace/train/model.ckpt-1400"
+all_model_checkpoint_paths: "/tmp/neonrace/train/model.ckpt-1720"
+all_model_checkpoint_paths: "/tmp/neonrace/train/model.ckpt-2000"
+all_model_checkpoint_paths: "/tmp/neonrace/train/model.ckpt-2320"
+all_model_checkpoint_paths: "/tmp/neonrace/train/model.ckpt-2600"

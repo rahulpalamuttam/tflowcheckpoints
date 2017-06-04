@@ -1,0 +1,6 @@
+model_checkpoint_path: "/tmp/duskier/train/model.ckpt-91377"
+all_model_checkpoint_paths: "/tmp/duskier/train/model.ckpt-89378"
+all_model_checkpoint_paths: "/tmp/duskier/train/model.ckpt-89978"
+all_model_checkpoint_paths: "/tmp/duskier/train/model.ckpt-90419"
+all_model_checkpoint_paths: "/tmp/duskier/train/model.ckpt-90874"
+all_model_checkpoint_paths: "/tmp/duskier/train/model.ckpt-91377"

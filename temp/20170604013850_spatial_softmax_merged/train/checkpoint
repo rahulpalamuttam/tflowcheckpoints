@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/temp/20170604013850_spatial_softmax_merged/train/model.ckpt-142253"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604013850_spatial_softmax_merged/train/model.ckpt-141381"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604013850_spatial_softmax_merged/train/model.ckpt-141558"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604013850_spatial_softmax_merged/train/model.ckpt-141838"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604013850_spatial_softmax_merged/train/model.ckpt-142158"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604013850_spatial_softmax_merged/train/model.ckpt-142253"

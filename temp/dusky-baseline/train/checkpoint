@@ -1,0 +1,6 @@
+model_checkpoint_path: "/tmp/dusky/train/model.ckpt-1053421"
+all_model_checkpoint_paths: "/tmp/dusky/train/model.ckpt-1049012"
+all_model_checkpoint_paths: "/tmp/dusky/train/model.ckpt-1050179"
+all_model_checkpoint_paths: "/tmp/dusky/train/model.ckpt-1051359"
+all_model_checkpoint_paths: "/tmp/dusky/train/model.ckpt-1052519"
+all_model_checkpoint_paths: "/tmp/dusky/train/model.ckpt-1053421"

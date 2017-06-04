@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/temp/20170604011935_learning_rate_1e-8/train/model.ckpt-20684"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604011935_learning_rate_1e-8/train/model.ckpt-19730"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604011935_learning_rate_1e-8/train/model.ckpt-19956"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604011935_learning_rate_1e-8/train/model.ckpt-20256"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604011935_learning_rate_1e-8/train/model.ckpt-20460"
+all_model_checkpoint_paths: "/home/rpalamut/temp/20170604011935_learning_rate_1e-8/train/model.ckpt-20684"
