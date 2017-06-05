@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/tflowcheckpoints/temp/20170605093447_/train/model.ckpt-2710010"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605093447_/train/model.ckpt-2701487"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605093447_/train/model.ckpt-2703675"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605093447_/train/model.ckpt-2705704"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605093447_/train/model.ckpt-2707590"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605093447_/train/model.ckpt-2710010"
