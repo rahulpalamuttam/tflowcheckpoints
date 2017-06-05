@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency/train/model.ckpt-1263263"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency/train/model.ckpt-1259297"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency/train/model.ckpt-1260317"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency/train/model.ckpt-1261163"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency/train/model.ckpt-1262363"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency/train/model.ckpt-1263263"

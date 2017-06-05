@@ -1,0 +1,1 @@
+/home/rpalamut/anaconda3/envs/universe-starter-agent/bin/python train.py --num-workers 8 --env-id flashgames.DuskDrive-v0 --log-dir /home/rpalamut/tflowcheckpoints/temp/20170605080332_spatial_softmax_lr1e-4_saliency
