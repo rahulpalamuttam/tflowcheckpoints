@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/tflowcheckpoints/temp2/20170610032328_single_thread_actionfixed_with_inference/train/model.ckpt-44363"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610032328_single_thread_actionfixed_with_inference/train/model.ckpt-43892"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610032328_single_thread_actionfixed_with_inference/train/model.ckpt-44032"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610032328_single_thread_actionfixed_with_inference/train/model.ckpt-44172"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610032328_single_thread_actionfixed_with_inference/train/model.ckpt-44232"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610032328_single_thread_actionfixed_with_inference/train/model.ckpt-44363"

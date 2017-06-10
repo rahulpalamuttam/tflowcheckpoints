@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/tflowcheckpoints/temp2/20170610115926_inference_scalar/train/model.ckpt-15817"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610115926_inference_scalar/train/model.ckpt-15501"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610115926_inference_scalar/train/model.ckpt-15641"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610115926_inference_scalar/train/model.ckpt-15661"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610115926_inference_scalar/train/model.ckpt-15677"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170610115926_inference_scalar/train/model.ckpt-15817"

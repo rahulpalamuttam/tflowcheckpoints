@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rpalamut/tflowcheckpoints/temp2/20170609005215_pre-trained_influence/train/model.ckpt-35488"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170609005215_pre-trained_influence/train/model.ckpt-35080"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170609005215_pre-trained_influence/train/model.ckpt-35240"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170609005215_pre-trained_influence/train/model.ckpt-35380"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170609005215_pre-trained_influence/train/model.ckpt-35448"
+all_model_checkpoint_paths: "/home/rpalamut/tflowcheckpoints/temp2/20170609005215_pre-trained_influence/train/model.ckpt-35488"
