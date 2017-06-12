@@ -1,0 +1,1 @@
+/home/rahulpalamut/anaconda3/envs/universe-starter-agent/bin/python train.py --num-workers 1 --env-id flashgames.DuskDrive-v0 --log-dir /home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3

@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3/train/model.ckpt-2950"
+all_model_checkpoint_paths: "/home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3/train/model.ckpt-2699"
+all_model_checkpoint_paths: "/home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3/train/model.ckpt-2779"
+all_model_checkpoint_paths: "/home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3/train/model.ckpt-2819"
+all_model_checkpoint_paths: "/home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3/train/model.ckpt-2890"
+all_model_checkpoint_paths: "/home/rahulpalamut/tflowcheckpoints/temp2/20170612191426_inception_lv3/train/model.ckpt-2950"
